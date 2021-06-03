@@ -8,7 +8,7 @@
     color:inherit;
     font-size:inherit;
     box-shadow: none;
-    /* list-style:none; todo? */
+    list-style:none;
 }
 button.u1-unstyle:hover { /* "button" to overwrite "button:not([disabled])", should be where(button:not([disabled])) in the future */
     background:transparent;
