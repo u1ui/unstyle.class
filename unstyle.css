@@ -11,6 +11,6 @@
     list-style:none;
     border-radius:0;
 }
-button.u1-unstyle:hover { /* "button" to overwrite "button:not([disabled])", should be where(button:not([disabled])) in the future */
+button.u1-unstyle:hover { /* "button" to overwrite "button:not(:disabled)", should be where(button:not(:disabled)) in the future */
     background:transparent;
 }
