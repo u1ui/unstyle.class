@@ -1,17 +1,17 @@
 
 .u1-unstyle {
-    border:none;
-    background:transparent;
-    display:inline;
-    padding:0;
-    margin:0;
-    color:inherit;
-    font-size:inherit;
+    border: 0;
+    background: transparent;
+    display: inline;
+    padding: 0;
+    margin: 0;
+    color: inherit;
+    font-size: inherit;
     box-shadow: none;
-    list-style:none;
-    border-radius:0;
+    list-style: none;
+    border-radius: 0;
 }
 button.u1-unstyle:hover,
 button.u1-unstyle:focus { /* "button" to overwrite "button:not(:disabled)", should be where(button:not(:disabled)) in the future */
-    background:transparent;
+    background: transparent;
 }
