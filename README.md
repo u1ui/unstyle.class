@@ -1,14 +1,7 @@
 # .u1-unstyle - class
 Unstyle elements eg. buttons
 
-
-
 Specificity: 0.1.0
-
-## Demos
-
-https://raw.githack.com/u1ui/unstyle.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/unstyle.class/main/tests/test.html
 
 ## Ussage
 
@@ -28,10 +21,10 @@ Button:
 <link href="https://cdn.jsdelivr.net/gh/u1ui/unstyle.class@3.0.0/unstyle.min.css" rel=stylesheet>
 ```
 
-## Demo
+## Demos
 
-https://raw.githack.com/u1ui/unstyle.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/unstyle.class/main/tests/test.html  
+[minimal.html](https://raw.githack.com/u1ui/unstyle.class/main/tests/minimal.html)  
+[test.html](https://raw.githack.com/u1ui/unstyle.class/main/tests/test.html)  
 
 ## About
 
