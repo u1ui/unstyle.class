@@ -1,5 +1,6 @@
-
+/*
 .u1-unstyle {
+    all:unset;
     border: 0;
     background: transparent;
     display: inline;
@@ -12,6 +13,19 @@
     border-radius: 0;
 }
 button.u1-unstyle:hover,
-button.u1-unstyle:focus { /* "button" to overwrite "button:not(:disabled)", should be where(button:not(:disabled)) in the future */
+button.u1-unstyle:focus { /* "button" to overwrite "button:not(:disabled)", should be where(button:not(:disabled)) in the future * /
     background: transparent;
 }
+*/
+
+
+
+.u1-unstyle {
+    all:unset;
+}
+/*
+button.u1-unstyle:hover,
+button.u1-unstyle:focus { / * "button" to overwrite "button:not(:disabled)", should be where(button:not(:disabled)) in the future * /
+    background: transparent;
+}
+*/

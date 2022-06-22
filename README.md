@@ -15,6 +15,11 @@ Button:
 </label>
 ```
 
+```css
+.u1-unstyle {
+}
+```
+
 ## Install
 
 ```html
