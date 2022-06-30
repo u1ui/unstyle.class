@@ -28,8 +28,8 @@ Button:
 
 ## Demos
 
-[minimal.html](https://raw.githack.com/u1ui/unstyle.class/main/tests/minimal.html)  
-[test.html](https://raw.githack.com/u1ui/unstyle.class/main/tests/test.html)  
+[minimal.html](http://gcdn.li/u1ui/unstyle.class@main/tests/minimal.html)  
+[test.html](http://gcdn.li/u1ui/unstyle.class@main/tests/test.html)  
 
 ## About
 
