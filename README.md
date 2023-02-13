@@ -23,7 +23,7 @@ Button:
 ## Install
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/u1ui/unstyle.class@3.0.0/unstyle.min.css" rel=stylesheet>
+<link href="https://cdn.jsdelivr.net/gh/u1ui/unstyle.class@x.x.x/unstyle.min.css" rel=stylesheet>
 ```
 
 ## Demos
